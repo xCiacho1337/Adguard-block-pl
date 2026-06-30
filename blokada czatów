@@ -1,11 +1,14 @@
-! Title: Blokada DNS stron czat-ruletek i wideo-czatów
-! Description: Lista blokuje polskie i międzynarodowe losowe czaty wideo. Przeznaczona dla AdGuard Home, Pi-hole i blokerów DNS.
-! Version: 1.0.0
+! Title: Antymateria - TrashOut DNS for AdGuard Home
+! Description: Casualowa lista DNS bezlitośnie wywożąca internetowy syf, czat-ruletki i toksyczne strony prosto na wysypisko.
+! Version: 1.1.0
 ! Last modified: 2026-06-30
 ! Homepage: https://github.com/AntymateriaDev/antymateria-trashout-dns
 ! Author: AntymateriaDev
 ! License: CC BY-NC-SA 4.0
 
+! ==============================================================================
+! SEKCJA 1: CZAT-RULETKI, WIDEO-CZATY I LOSOWE KAMERKI (AKTYWNE)
+! ==============================================================================
 6obcy.pl
 6obcy.com
 6obcy.org
@@ -16,14 +19,6 @@ monkey.app
 chathub.me
 emeraldchat.com
 chatspin.com
-czateria.pl
-czateria.interia.pl
-poczatuj.pl
-chat.wp.pl
-chat.interia.pl
-fotka.pl
-sympatia.onet.pl
-badoo.com
 camsurf.com
 chatrandom.com
 shagle.com
@@ -32,7 +27,6 @@ bazoocam.org
 tinychat.com
 chatki.com
 strangercam.com
-chati.pl
 raven-talk.com
 anotalk.pl
 techoteka.pl
@@ -40,10 +34,6 @@ chati.online
 czatoo.pl
 anosquad.pl
 omegla.chat
-bzykanie24.pl
-fotoflirt.pl
-erodate.pl
-single.pl
 omegleapp.me
 omegle.com.pe
 joingy.com
@@ -52,3 +42,71 @@ luckycrush.live
 minichat.com
 chatbazooka.com
 freecamchat.com
+camloo.com
+chathub.cam
+omega.app
+bazoocam.com
+hay.fun
+tumile.me
+livu.me
+azar.app
+holla.world
+y99.in
+rumbletalk.com
+! --- POTĘŻNA DOSTAWA V1.1.0 ---
+OmeChat.com
+wpal.me
+chatalternative.com
+fruzo.com
+faceflow.com
+gofuckingchat.com
+chatliv.com
+camfrog.com
+dirtyroulette.com
+chatrad.com
+sweetmeet.me
+ichat.pl
+polskiczat.pl
+czateria.pl
+
+! ==============================================================================
+! SEKCJA 2: POLSKIE I MIĘDZYNARODOWE PORTALE RANDKOWE / FLIRTY (AKTYWNE)
+! ==============================================================================
+czateria.interia.pl
+poczatuj.pl
+chat.wp.pl
+chat.interia.pl
+chati.pl
+fotka.pl
+sympatia.onet.pl
+badoo.com
+bzykanie24.pl
+fotoflirt.pl
+erodate.pl
+single.pl
+tinder.com
+okcupid.com
+bumble.com
+hi5.com
+cooMeet.com
+pof.com
+edarling.pl
+akademiaserca.pl
+randkuj.pl
+zaadoptujfaceta.pl
+mydwoje.pl
+hinge.co
+happn.com
+grindr.com
+zoosk.com
+match.com
+elitesingles.com
+ashleymadison.com
+flirt.com
+be2.pl
+lento.pl
+najdzme.pl
+swatki.pl
+szukamzony.pl
+mamboflirt.pl
+randki.pl
