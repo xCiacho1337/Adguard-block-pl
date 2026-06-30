@@ -1,6 +1,6 @@
 ! Title: Antymateria - TrashOut DNS for AdGuard Home
-! Description: Casualowa lista DNS bezlitośnie wywożąca internetowy syf, czat-ruletki i toksyczne strony prosto na wysypisko.
-! Version: 1.1.5
+! Description: Casualowa lista DNS bezlitośnie wywożąca internetowy syf, czat-ruletki, hookupy i toksyczne strony prosto na wysypisko.
+! Version: 1.2.0
 ! Last modified: 2026-06-30
 ! Homepage: https://github.com/AntymateriaDev/antymateria-trashout-dns
 ! Author: AntymateriaDev
@@ -68,6 +68,17 @@ camzey.com
 cammatch.com
 randomskip.com
 mirami.chat
+imeetzu.com
+m.imeetzu.com
+flingster.com
+nightcap.chat
+roulette.chat
+whoapp.live
+mnogochat.com
+chatville.com
+only2chat.com
+facebuzz.com
+thundr.com
 
 ! ==============================================================================
 ! SEKCJA 1B: KLASYCZNE CZATY TEKSTOWE
@@ -89,6 +100,10 @@ chatib.net
 chatblink.com
 chat-avenue.com
 chatogo.com
+polfan.pl
+chatplaza.com
+freechatnow.com
+talkwithstranger.com
 
 ! ==============================================================================
 ! SEKCJA 2A: PORTALE RANDKOWE I APLIKACJE MATRYMONIALNE
@@ -133,6 +148,8 @@ waplog.com
 mingle2.com
 ourtime.com
 eharmony.com
+her.com
+scruff.com
 
 ! ==============================================================================
 ! SEKCJA 2B: FLIRT / SEX RANDKI / SPAM I HOOKUP
@@ -154,3 +171,22 @@ ashleymadison.com
 flirt.com
 be2.pl
 najdzme.pl
+pure.app
+flure.com
+doublelist.com
+feeld.co
+kasual.app
+downapp.com
+victoriamilan.com
+alt.com
+sexkontakty.pl
+
+! ==============================================================================
+! SEKCJA 3: ADULT CAM / PREMIUM SEX CHAT (WYSOKIE RYZYKO)
+! ==============================================================================
+chaturbate.com
+bongacams.com
+stripchat.com
+myfreecams.com
+livejasmin.com
+jerkmate.com
