@@ -1,5 +1,5 @@
 ! Title: Blokada DNS stron czat-ruletek i wideo-czatów
-! Description: Lista blokuje polskie i międzynarodowe losowe czaty wideo oraz portale randkowe. Przeznaczona dla AdGuard Home, Pi-hole i blokerów DNS.
+! Description: Lista blokuje polskie i międzynarodowe losowe czaty wideo. Przeznaczona dla AdGuard Home, Pi-hole i blokerów DNS.
 ! Version: 1.0.0
 ! Last modified: 2026-06-30
 ! Homepage: https://github.com/xCiacho1337/Adguard-block-pl
