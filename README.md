@@ -1,8 +1,8 @@
 # 🌌 Antymateria - TrashOut DNS for AdGuard Home
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Version](https://img.shields.io/badge/Version-Major%202.0.0-blueviolet.svg)]()
-[![Entries](https://img.shields.io/badge/Domeny-460+-brightgreen.svg)]()
+[![Version](https://img.shields.io/badge/Version-Major%202.0.0-blueviolet.svg)](https://github.com/AntymateriaDev/antymateria-trashout-dns/blob/main/antymateria-trashout.txt)
+[![Entries](https://img.shields.io/badge/Domeny-460+-brightgreen.svg)](https://github.com/AntymateriaDev/antymateria-trashout-dns/blob/main/antymateria-trashout.txt)
 
 Bezlitosna, zautomatyzowana i perfekcyjnie skrojona tarcza DNS, która anihiluje internetowy ściek, uzależniające pożeracze czasu oraz toksyczne platformy społecznościowe prosto na cyfrowe wysypisko. 
 
@@ -24,6 +24,6 @@ Wersja 2.0.0 to całkowita rewolucja i przeskok do **ponad 460 unikalnych, żywy
 
 ## 🛠️ Jak dodać listę do AdGuard Home?
 
-1. Skopiuj poniższy link **RAW**:
+1. Skopiuj poniższy link **RAW** (kliknij prawym i kopiuj lub po prostu zaznacz):
    ```text
-   [https://raw.githubusercontent.com/AntymateriaDev/antymateria-trashout-dns/refs/heads/main/blokada%20czat%C3%B3w](https://raw.githubusercontent.com/AntymateriaDev/antymateria-trashout-dns/refs/heads/main/blokada%20czat%C3%B3w)
+   [https://raw.githubusercontent.com/AntymateriaDev/antymateria-trashout-dns/refs/heads/main/antymateria-trashout.txt](https://raw.githubusercontent.com/AntymateriaDev/antymateria-trashout-dns/refs/heads/main/antymateria-trashout.txt)
